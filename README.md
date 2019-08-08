@@ -1,2 +1,2 @@
 # mnist-gan
-Generative Adverserial Network to generate handwritten digits
+Generative Adversarial Network to generate handwritten digits
