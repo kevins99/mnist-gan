@@ -5,7 +5,7 @@ import numpy as np
 import cv2
 from tqdm import tqdm
 
-last_finished_epoch = 40  # models saved every 5 epochs so must be a multiple of 5
+last_finished_epoch = 60  # models saved every 5 epochs so must be a multiple of 5
 epochs = 500
 batch_size = 200
 dvsgr = 2
